@@ -1,0 +1,9 @@
+<NoSlots>
+
+	<server fixedname="0" basenick="sampuser" password="">127.0.0.1:7777</server>
+
+	<values bots="19" version="0.3DL" bot_delay="750" />
+	
+	<toggles spam_reconnect="0" reconnect_delay="3000" />
+	
+</NoSlots>
